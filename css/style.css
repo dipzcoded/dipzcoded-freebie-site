@@ -66,6 +66,7 @@ main {
   justify-content: space-around;
   align-items: center;
   padding: 2rem 0;
+  background-color: rgba(241, 241, 241, 0.925);
 }
 
 .logo {
@@ -117,7 +118,7 @@ main {
   top: 0px;
   left: 0;
   width: 100%;
-  background-color: rgba(241, 241, 241, 0.925);
+
   box-shadow: 0 2px 20px rgba(0, 0, 0, 0.1);
 }
 
